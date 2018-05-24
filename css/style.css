@@ -4,7 +4,6 @@ body
     width: 1350px;
     height: auto;
     background-repeat: no-repeat;
-    background-attachment: fixed;
     background-image: url(../images/img-1.png);
 }
 #login-box
@@ -14,6 +13,7 @@ body
     margin: auto;
     background: rgba(255,255,100,0.5);
     margin-top: 100px;
+    
 
 }
 body img{
